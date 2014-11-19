@@ -42,3 +42,10 @@ Why Vim?
     - Repeating commands is a fundamental part of Vim
     - Can repeat any command any number of times
     - Makes repetitive text editing jobs incrediby easy
+
+Examples
+========
+
+UNIQUEID@ceclnx01.cec.miamioh.edu
+
+https://github.com/miami-acm/vim-tutorial
